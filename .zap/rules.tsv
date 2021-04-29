@@ -13,3 +13,4 @@
 10049	IGNORE	(Non-Storable Content)
 10110	IGNORE	(Dangerous JS Functions)
 90004	IGNORE	(Insufficient Site Isolation Against Spectre Vulnerability)
+10020 IGNORE  (X-Frame-Options Header Not Set)
